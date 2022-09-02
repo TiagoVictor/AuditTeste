@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RgClhE0Y98ZcHL/KhsPnIZdwOPEn3nOQOILOKGihRY5Vfe5X5QhqcQ2zybSOdVL2loW3g17rXcc9L3M9JI3xog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\UDS\\Desktop\\appTeste\\AuditTeste\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UDS\\.nuget\\packages\\audit.net\\19.4.0\\audit.net.19.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
